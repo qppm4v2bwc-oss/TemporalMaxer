@@ -41,7 +41,7 @@ The code should be recompiled every time you update PyTorch.
 ## Usage
 ### Reproduce Our Results on EPIC-Kitchens 100
 ##### Download Features and Annotations
-- Download epic_kitchens.tar.gz from this [link](https://1drv.ms/u/s!AmoaChPnSuIOmwPfVx8f4wQYluKM?e=WyuEBZ), md5sum `6cbf312eb5025c0abbbf5d0eaa61e556`.
+- Download epic_kitchens.tar.gz from this [link](https://1drv.ms/u/c/0ee24ae7130a1a6a/IQBqGgoT50riIIAOgw0AAAAAAY9PANSbU0SHbKNdYHXONRs?e=BUuPqU), md5sum `6cbf312eb5025c0abbbf5d0eaa61e556`.
 - Make `data` folder in the current code directory.
 - The data folder structure should look like the following:
 ```bash
